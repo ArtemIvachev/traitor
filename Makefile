@@ -15,4 +15,4 @@ install:
 .PHONY: test
 test:
 	go test ./... -race -cover
-hjhjhjk
+HELLO my name is Artem
